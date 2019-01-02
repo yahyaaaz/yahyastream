@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', (326527798166552586) => {
-    client.user.setGame(`〄  Being lonely and not pathetic ♡
+    client.user.setGame(`〄  hello fucked up world♡
  `,"http://twitch.tv/y04zgamer")
     client.user.setStatus("dnd")
   console.log(`Logged in as ${client.user.tag}!`);
